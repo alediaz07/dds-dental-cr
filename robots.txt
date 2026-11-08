@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Preview only. Remove disallow and page noindex after domain migration and SEO approval.
